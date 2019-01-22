@@ -1,6 +1,6 @@
 # Furry-Game
 
-<a href="https://malwina89.github.io/Furry-Game/"></a>
+<a href="https://malwina89.github.io/Furry-Game/">https://malwina89.github.io/Furry-Game/</a>
 
 Simple game written in pure JavaScript. I've followed provided guidelines, while writing.
 
